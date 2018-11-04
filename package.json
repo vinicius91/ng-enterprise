@@ -15,9 +15,17 @@
   "dependencies": {
     "@angular-devkit/core": "^7.0.4",
     "@angular-devkit/schematics": "^7.0.4",
+    "@angular/cli": "^7.0.4",
+    "@angular/common": "^7.0.2",
+    "@angular/core": "^7.0.2",
     "@types/jasmine": "^2.6.0",
     "@types/node": "^8.0.31",
     "jasmine": "^2.8.0",
-    "typescript": "^2.5.2"
+    "pluralize": "^7.0.0",
+    "typescript": "^2.5.2",
+    "zone.js": "^0.8.26"
+  },
+  "devDependencies": {
+    "@types/pluralize": "0.0.29"
   }
 }
