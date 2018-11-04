@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "ng-enterprise": {
+      "description": "A blank schematic.",
+      "factory": "./ng-enterprise/index#ngEnterprise"
+    }
+  }
+}
